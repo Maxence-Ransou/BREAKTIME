@@ -127,7 +127,7 @@ Les utilisateurs seront informés en cas de modification importante.
 
 Pour toute question concernant cette politique de confidentialité :
 
-📧 Email : support@timebreak.app  
+📧 Email : rns.maxence@gmail.com
 📱 Application : Timebreak
 
 ---
